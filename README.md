@@ -29,6 +29,11 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 ## Program:
 ```
+/*
+Program to implement univariate Linear Regression to fit a straight line using least squares.
+Developed by: Tharunika.E
+RegisterNumber:  212225040470
+*/
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
